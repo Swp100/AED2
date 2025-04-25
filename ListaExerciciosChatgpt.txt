@@ -1,0 +1,11 @@
+gerar lista de exercicios no chatGpt mesclando bubble sort com selection sort
+Informar persona nos prompts
+Engenharia de prompts:
+persona>> receber ou fazer>>>Professor especializado em python....
+não utilize o for... utilizar o while
+
+Exemplo:
+utilizando o padrão de provas ENADE, e assumindo a postura de um professor expert em estrutura
+ de dados e linguagem python, crie um exercicio de multipla escolha que envolva dois tipos de 
+ordenação: bubble sort e selection sort. Crie um contexto envolto em ciencia de dados. Em seguida
+faça o desenvolvimento da questão, explicando as soluções
